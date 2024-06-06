@@ -29,6 +29,8 @@ gem 'jbuilder', '~> 2.7'
 gem 'devise'
 gem 'devise-bootstrap-views', '~> 1.0'
 
+gem 'alphavantage'
+
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
 
